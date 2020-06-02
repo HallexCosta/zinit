@@ -1,0 +1,2 @@
+# zinit
+My settings zinit
